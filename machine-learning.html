@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Machine Learning | DN's ePortfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>DN's ePortfolio</h1>
+      <nav>
+        <a href="machine-learning.html">Machine Learning</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+  <section id="tiles">
+    <div class="container tile-grid">
+      <div class="tile" onclick="showActivity(1)">
+        <h3>e-Portfolio 1</h3>
+        <p id="desc1" class="desc">Click to view/edit description.</p>
+      </div>
+      <div class="tile" onclick="showActivity(2)">
+        <h3>e-Portfolio 2</h3>
+        <p id="desc2" class="desc">Click to view/edit description.</p>
+      </div>
+      <div class="tile" onclick="showActivity(3)">
+        <h3>e-Portfolio 3</h3>
+        <p id="desc3" class="desc">Click to view/edit description.</p>
+      </div>
+      <div class="tile" onclick="showActivity(4)">
+        <h3>e-Portfolio 4</h3>
+        <p id="desc4" class="desc">Click to view/edit description.</p>
+      </div>
+      <div class="tile" onclick="showActivity(5)">
+        <h3>e-Portfolio 5</h3>
+        <p id="desc5" class="desc">Click to view/edit description.</p>
+      </div>
+      <div class="tile" onclick="showActivity(6)">
+        <h3>e-Portfolio 6</h3>
+        <p id="desc6" class="desc">Click to view/edit description.</p>
+      </div>
+      <div class="tile" onclick="showActivity(7)">
+        <h3>e-Portfolio 7</h3>
+        <p id="desc7" class="desc">Click to view/edit description.</p>
+      </div>
+      <div class="tile" onclick="showActivity(8)">
+        <h3>e-Portfolio 8</h3>
+        <p id="desc8" class="desc">Click to view/edit description.</p>
+      </div>
+      <div class="tile" onclick="showActivity(9)">
+        <h3>e-Portfolio 9</h3>
+        <p id="desc9" class="desc">Click to view/edit description.</p>
+      </div>
+      <div class="tile" onclick="showActivity(10)">
+        <h3>e-Portfolio 10</h3>
+        <p id="desc10" class="desc">Click to view/edit description.</p>
+      </div>
+      <div class="tile" onclick="showActivity(11)">
+        <h3>e-Portfolio 11</h3>
+        <p id="desc11" class="desc">Click to view/edit description.</p>
+      </div>
+      <div class="tile" onclick="showActivity(12)">
+        <h3>e-Portfolio 12</h3>
+        <p id="desc12" class="desc">Click to view/edit description.</p>
+      </div>
+    </div>
+  </section>
+  <!-- Modal for viewing/editing tile descriptions -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal()">&times;</span>
+      <h3 id="modalTitle">e-Portfolio</h3>
+      <div id="modalDescView" style="display:none;"></div>
+      <textarea id="modalDescEdit" maxlength="1800" placeholder="Enter activity description (max 300 words)..." style="display:none;"></textarea>
+      <button id="saveBtn" onclick="saveDesc()" style="display:none;">Save</button>
+    </div>
+  </div>
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 DN's ePortfolio. All rights reserved.</p>
+    </div>
+  </footer>
+  <script src="tiles.js"></script>
+</body>
+</html>
