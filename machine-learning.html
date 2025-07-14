@@ -5,6 +5,11 @@
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <title>Machine Learning | DN's ePortfolio</title>
   <link rel="stylesheet" href="styles.css">
+  <script>
+    // Check if author mode is enabled via URL parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    const isAuthor = urlParams.has('edit') && urlParams.get('edit') === 'EssexML2025';
+  </script>
 </head>
 <body>
   <header>
@@ -14,69 +19,113 @@
         <a href="index.html">Home</a>
         <a href="machine-learning.html">Machine Learning</a>
         <a href="contact.html">Contact</a>
+        <script>
+          if(isAuthor) {
+            document.write('<span style="color:#ffd180; margin-left:15px;">🔓 Author Mode</span>');
+          }
+        </script>
       </nav>
     </div>
   </header>
   <section id="tiles">
     <div class="container tile-grid">
-      <div class="tile" onclick="showActivity(1)">
+      <div class="tile">
         <h3>e-Portfolio 1</h3>
-        <p id="desc1" class="desc">Click to view/edit description.</p>
+        <p class="desc">
+          <span id="short1">Introduction to machine learning concepts, history, and applications...</span>
+          <a href="#" onclick="showActivity(1)">View</a>
+        </p>
       </div>
-      <div class="tile" onclick="showActivity(2)">
+      <!-- Repeat for other 11 tiles with ids short2 to short12 -->
+      <div class="tile">
         <h3>e-Portfolio 2</h3>
-        <p id="desc2" class="desc">Click to view/edit description.</p>
+        <p class="desc">
+          <span id="short2">Data preprocessing techniques including cleaning, normalization, and feature engineering...</span>
+          <a href="#" onclick="showActivity(2)">View</a>
+        </p>
       </div>
-      <div class="tile" onclick="showActivity(3)">
+      <div class="tile">
         <h3>e-Portfolio 3</h3>
-        <p id="desc3" class="desc">Click to view/edit description.</p>
+        <p class="desc">
+          <span id="short3">Linear and logistic regression models for predictive analysis...</span>
+          <a href="#" onclick="showActivity(3)">View</a>
+        </p>
       </div>
-      <div class="tile" onclick="showActivity(4)">
+      <div class="tile">
         <h3>e-Portfolio 4</h3>
-        <p id="desc4" class="desc">Click to view/edit description.</p>
+        <p class="desc">
+          <span id="short4">Decision trees, random forests, and ensemble methods...</span>
+          <a href="#" onclick="showActivity(4)">View</a>
+        </p>
       </div>
-      <div class="tile" onclick="showActivity(5)">
+      <div class="tile">
         <h3>e-Portfolio 5</h3>
-        <p id="desc5" class="desc">Click to view/edit description.</p>
+        <p class="desc">
+          <span id="short5">Clustering algorithms including K-means and hierarchical clustering...</span>
+          <a href="#" onclick="showActivity(5)">View</a>
+        </p>
       </div>
-      <div class="tile" onclick="showActivity(6)">
+      <div class="tile">
         <h3>e-Portfolio 6</h3>
-        <p id="desc6" class="desc">Click to view/edit description.</p>
+        <p class="desc">
+          <span id="short6">Neural network fundamentals and backpropagation...</span>
+          <a href="#" onclick="showActivity(6)">View</a>
+        </p>
       </div>
-      <div class="tile" onclick="showActivity(7)">
+      <div class="tile">
         <h3>e-Portfolio 7</h3>
-        <p id="desc7" class="desc">Click to view/edit description.</p>
+        <p class="desc">
+          <span id="short7">Convolutional Neural Networks for image recognition...</span>
+          <a href="#" onclick="showActivity(7)">View</a>
+        </p>
       </div>
-      <div class="tile" onclick="showActivity(8)">
+      <div class="tile">
         <h3>e-Portfolio 8</h3>
-        <p id="desc8" class="desc">Click to view/edit description.</p>
+        <p class="desc">
+          <span id="short8">Recurrent Neural Networks and sequence modeling...</span>
+          <a href="#" onclick="showActivity(8)">View</a>
+        </p>
       </div>
-      <div class="tile" onclick="showActivity(9)">
+      <div class="tile">
         <h3>e-Portfolio 9</h3>
-        <p id="desc9" class="desc">Click to view/edit description.</p>
+        <p class="desc">
+          <span id="short9">Natural Language Processing techniques and transformers...</span>
+          <a href="#" onclick="showActivity(9)">View</a>
+        </p>
       </div>
-      <div class="tile" onclick="showActivity(10)">
+      <div class="tile">
         <h3>e-Portfolio 10</h3>
-        <p id="desc10" class="desc">Click to view/edit description.</p>
+        <p class="desc">
+          <span id="short10">Reinforcement learning concepts and Q-learning...</span>
+          <a href="#" onclick="showActivity(10)">View</a>
+        </p>
       </div>
-      <div class="tile" onclick="showActivity(11)">
+      <div class="tile">
         <h3>e-Portfolio 11</h3>
-        <p id="desc11" class="desc">Click to view/edit description.</p>
+        <p class="desc">
+          <span id="short11">Model evaluation metrics and validation strategies...</span>
+          <a href="#" onclick="showActivity(11)">View</a>
+        </p>
       </div>
-      <div class="tile" onclick="showActivity(12)">
+      <div class="tile">
         <h3>e-Portfolio 12</h3>
-        <p id="desc12" class="desc">Click to view/edit description.</p>
+        <p class="desc">
+          <span id="short12">Ethical considerations in AI and future directions...</span>
+          <a href="#" onclick="showActivity(12)">View</a>
+        </p>
       </div>
     </div>
   </section>
-  <!-- Modal for viewing/editing tile descriptions -->
+  <!-- Modal for viewing activity content -->
   <div id="modal" class="modal">
     <div class="modal-content">
       <span class="close" onclick="closeModal()">&times;</span>
       <h3 id="modalTitle"></h3>
-      <div id="modalDescView" style="display:none;"></div>
-      <textarea id="modalDescEdit" maxlength="1800" placeholder="Enter activity description (max 300 words)..." style="display:none;"></textarea>
-      <button id="saveBtn" onclick="saveDesc()" style="display:none;">Save</button>
+      <div id="modalDesc"></div>
+      <div id="editControls" style="display:none; margin-top:20px;">
+        <textarea id="modalDescEdit" maxlength="1800" placeholder="Enter activity description (max 300 words)..." rows="6"></textarea>
+        <button onclick="saveDesc()">Save</button>
+      </div>
     </div>
   </div>
   <footer>
