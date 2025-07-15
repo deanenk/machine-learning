@@ -2,19 +2,11 @@
 const activities = {
   1: {
     title: "e-Portfolio 1: Introduction to Machine Learning",
-    content: "Description: I analysed Industry 4.0/5.0 impacts (AI, IoT, big data) on SA's defence sector, including cybersecurity risks like the Transnet attack (Metcalf, 2024; ISS Africa, 2021).
-Feelings: Initially optimistic about efficiency gains, I grew concerned about cyber vulnerability.
-Evaluation: Positives: enhanced operational capabilities (Metcalf, 2024). Negatives: critical infrastructure risks emphasised by peers (Alzaabi, 2025; Korimbocus, 2025).
-Analysis: The Transnet breach (ISS Africa, 2021) confirmed human oversight (Industry 5.0) and infrastructure protection (Addis & Resch, 2022) are essential. Peers identified policy-budget gaps (Alzaabi, 2025).
-Conclusion: Cybersecurity is fundamental to defence modernisation.
-Action Plan: Advocate for integrated cyber-resilient frameworks (e.g., edge computing: Fraga-Lamas, Barros and Fernández-Caramés, 2022) and policy-driven budget allocations.
+    content: "In this unit, I explored the transformative impact of Industry 4.0 and 5.0 on South Africa’s defence sector. Industry 4.0, characterized by technologies such as AI, IoT, and big data analytics, is revolutionizing defence logistics and manufacturing by enabling predictive maintenance and real-time decision-making (Metcalf, 2024). Industry 5.0 emphasizes human-machine collaboration, integrating robotics while maintaining critical human oversight, which raises important ethical considerations (Metcalf, 2024).
+The unit highlighted cybersecurity threats associated with these advancements, exemplified by the 2021 Transnet cyberattack, which disrupted port operations and underscored vulnerabilities in critical infrastructure (ISS Africa, 2021). Recognizing these risks emphasizes the need for robust cyber resilience strategies in defence, combining technological innovation with strong security measures, to support national security and economic stability.
 
 References
-Addis, S. and Resch, M. (2022) ‘Cyber-attack implications for maritime critical infrastructure: A review’, Maritime Security Journal, 12(4), pp. 290–308.
-Alzaabi, J. (2025) Online Forum Post, 19 May.
-Fraga-Lamas, P., Barros, D. and Fernández-Caramés, T.M. (2022) ‘Mist and Edge Computing Cyber-Physical Human-Centered Systems for Industry 5.0’.
 ISS Africa (2021) Cyber attacks expose the vulnerability of South Africa’s ports. Available at: https://issafrica.org/iss-today/cyber-attacks-expose-the-vulnerability-of-south-africas-ports (Accessed: 10 June 2024).
-Korimbocus, H. (2025) Online Forum Post, 19 June.
 Metcalf, J. (2024) ‘Industry 5.0 and the future of defence manufacturing’, Defence Technology Review, 12(3), pp. 45–60."
   },
   2: {
