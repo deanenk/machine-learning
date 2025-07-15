@@ -1,7 +1,7 @@
 // Sample content for the portfolio activities
 const activities = {
   1: {
-    title: "e-Portfolio 1xx: Introduction to Machine Learning",
+    title: "e-Portfolio 1: Introduction to Machine Learning",
     content: "Description: I analysed Industry 4.0/5.0 impacts (AI, IoT, big data) on SA's defence sector, including cybersecurity risks like the Transnet attack (Metcalf, 2024; ISS Africa, 2021).
 Feelings: Initially optimistic about efficiency gains, I grew concerned about cyber vulnerability.
 Evaluation: Positives: enhanced operational capabilities (Metcalf, 2024). Negatives: critical infrastructure risks emphasised by peers (Alzaabi, 2025; Korimbocus, 2025).
