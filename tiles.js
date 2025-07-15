@@ -1,4 +1,4 @@
-/ Sample content for the portfolio activities
+// Sample content for the portfolio activities
 const activities = {
   1: {
     title: "e-Portfolio 1: Introduction to Machine Learning",
