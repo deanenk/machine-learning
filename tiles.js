@@ -2,7 +2,19 @@
 const activities = {
   1: {
     title: "e-Portfolio 1: Introduction to Machine Learning",
-    content: "This unit provided a comprehensive overview of machine learning fundamentals. We explored the history of AI and ML, different types of learning (supervised, unsupervised, reinforcement), and core concepts like bias-variance tradeoff. Key topics included the machine learning workflow, common algorithms overview, and ethical considerations in AI. The practical exercises helped me understand how to frame real-world problems as ML tasks and select appropriate approaches."
+    content: "Unit 1 Reflection
+I explored how Industry 4.0/5.0 technologies (AI, IoT, big data) impact South Africa’s defence sector, including cybersecurity risks exemplified by the Transnet attack (Metcalf, 2024; ISS Africa, 2021).
+Initially, I was optimistic about technological efficiency gains but became concerned about vulnerability to cyber threats.A key negative was the critical infrastructure vulnerability highlighted by peers (Alzaabi, 2025; Korimbocus, 2025).
+The Transnet attack (ISS Africa, 2021) proved that human oversight (Industry 5.0) and infrastructure protection (Addis & Resch, 2022) are essential. Peers rightly noted policy-budget alignment gaps (Alzaabi, 2025).
+My colcusion is that Cybersecurity is non-negotiable for defence modernisation. Therefore, I will always advocate for integrated cyber-resilient frameworks (e.g., edge computing (Fraga-Lamas et al., 2022)) and policy-driven budget allocations.
+
+References
+Addis, S. & Resch, M. (2022) Maritime Security Journal, 12(4), 290–308.
+Alzaabi, J. (2025) Online Forum Post, 19 May.
+Fraga-Lamas, P., Barros, D. and Fernández-Caramés, T.M. (2022) ‘Mist and Edge Computing Cyber-Physical Human-Centered Systems for Industry 5.0’.
+ISS Africa (2021) Cyber attacks...ports. Available at: https://issafrica.org/iss-today/cyber-attacks-expose-the-vulnerability-of-south-africas-ports (Accessed: 10 June 2024).
+Korimbocus, H. (2025) Online Forum Post, 19 June.
+"
   },
   2: {
     title: "e-Portfolio 2: Data Preprocessing",
