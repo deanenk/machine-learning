@@ -2,10 +2,20 @@
 const activities = {
   1: {
     title: "e-Portfolio 1xx: Introduction to Machine Learning",
-    content: "Focusing on data preparation techniques, this unit covered essential steps in the ML pipeline. 
-      We learned about handling missing data, outlier detection, feature scaling, and encoding categorical variables. 
-  Feature engineering strategies and dimensionality reduction methods like PCA were particularly valuable. 
-  Hands-on labs with Pandas and Scikit-learn helped solidify these concepts. I now appreciate how data quality directly impacts model performance."
+    content: "Description: I analysed Industry 4.0/5.0 impacts (AI, IoT, big data) on SA's defence sector, including cybersecurity risks like the Transnet attack (Metcalf, 2024; ISS Africa, 2021).
+Feelings: Initially optimistic about efficiency gains, I grew concerned about cyber vulnerability.
+Evaluation: Positives: enhanced operational capabilities (Metcalf, 2024). Negatives: critical infrastructure risks emphasised by peers (Alzaabi, 2025; Korimbocus, 2025).
+Analysis: The Transnet breach (ISS Africa, 2021) confirmed human oversight (Industry 5.0) and infrastructure protection (Addis & Resch, 2022) are essential. Peers identified policy-budget gaps (Alzaabi, 2025).
+Conclusion: Cybersecurity is fundamental to defence modernisation.
+Action Plan: Advocate for integrated cyber-resilient frameworks (e.g., edge computing: Fraga-Lamas, Barros and Fernández-Caramés, 2022) and policy-driven budget allocations.
+
+References
+Addis, S. and Resch, M. (2022) ‘Cyber-attack implications for maritime critical infrastructure: A review’, Maritime Security Journal, 12(4), pp. 290–308.
+Alzaabi, J. (2025) Online Forum Post, 19 May.
+Fraga-Lamas, P., Barros, D. and Fernández-Caramés, T.M. (2022) ‘Mist and Edge Computing Cyber-Physical Human-Centered Systems for Industry 5.0’.
+ISS Africa (2021) Cyber attacks expose the vulnerability of South Africa’s ports. Available at: https://issafrica.org/iss-today/cyber-attacks-expose-the-vulnerability-of-south-africas-ports (Accessed: 10 June 2024).
+Korimbocus, H. (2025) Online Forum Post, 19 June.
+Metcalf, J. (2024) ‘Industry 5.0 and the future of defence manufacturing’, Defence Technology Review, 12(3), pp. 45–60."
   },
   2: {
     title: "e-Portfolio 2: Data Preprocessing",
