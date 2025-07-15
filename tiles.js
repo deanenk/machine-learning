@@ -2,9 +2,7 @@
 const activities = {
   1: {
     title: "e-Portfolio 1: Introduction to Machine Learning",
-    content: "Unit 1 Reflection
-I explored how Industry 4.0/5.0 technologies (AI, IoT, big data) impact South Africa’s defence sector, including cybersecurity risks exemplified by the Transnet attack (Metcalf, 2024; ISS Africa, 2021).
-Initially, I was optimistic about technological efficiency gains but became concerned about vulnerability to cyber threats.A key negative was the critical infrastructure vulnerability highlighted by peers (Alzaabi, 2025; Korimbocus, 2025).
+    content: "Unit 1 Reflection I explored how Industry 4.0/5.0 technologies (AI, IoT, big data) impact South Africa’s defence sector, including cybersecurity risks exemplified by the Transnet attack (Metcalf, 2024; ISS Africa, 2021). Initially, I was optimistic about technological efficiency gains but became concerned about vulnerability to cyber threats.A key negative was the critical infrastructure vulnerability highlighted by peers (Alzaabi, 2025; Korimbocus, 2025).
 The Transnet attack (ISS Africa, 2021) proved that human oversight (Industry 5.0) and infrastructure protection (Addis & Resch, 2022) are essential. Peers rightly noted policy-budget alignment gaps (Alzaabi, 2025).
 My colcusion is that Cybersecurity is non-negotiable for defence modernisation. Therefore, I will always advocate for integrated cyber-resilient frameworks (e.g., edge computing (Fraga-Lamas et al., 2022)) and policy-driven budget allocations.
 
