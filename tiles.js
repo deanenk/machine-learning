@@ -1,7 +1,7 @@
 // Sample content for the portfolio activities
 const activities = {
   1: {
-    title: "e-Portfolio 1xxx: Introduction to Machine Learning",
+    title: "e-Portfolio 1xx: Introduction to Machine Learning",
     content: "Focusing on data preparation techniques, this unit covered essential steps in the ML pipeline. 
       We learned about handling missing data, outlier detection, feature scaling, and encoding categorical variables. 
   Feature engineering strategies and dimensionality reduction methods like PCA were particularly valuable. 
