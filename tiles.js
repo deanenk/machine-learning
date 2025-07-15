@@ -2,7 +2,10 @@
 const activities = {
   1: {
     title: "e-Portfolio 1xxx: Introduction to Machine Learning",
-    content: "Focusing on data preparation techniques, this unit covered essential steps in the ML pipeline. We learned about handling missing data, outlier detection, feature scaling, and encoding categorical variables. Feature engineering strategies and dimensionality reduction methods like PCA were particularly valuable. Hands-on labs with Pandas and Scikit-learn helped solidify these concepts. I now appreciate how data quality directly impacts model performance."
+    content: "Focusing on data preparation techniques, this unit covered essential steps in the ML pipeline. 
+      We learned about handling missing data, outlier detection, feature scaling, and encoding categorical variables. 
+  Feature engineering strategies and dimensionality reduction methods like PCA were particularly valuable. 
+  Hands-on labs with Pandas and Scikit-learn helped solidify these concepts. I now appreciate how data quality directly impacts model performance."
   },
   2: {
     title: "e-Portfolio 2: Data Preprocessing",
