@@ -18,7 +18,9 @@ const activities = {
   },
   5: {
     title: "e-Portfolio 5: Clustering Techniques",
-    content: "Unsupervised learning through clustering algorithms was explored in depth. We implemented K-means, hierarchical clustering, and DBSCAN, learning their strengths and weaknesses. The unit covered cluster evaluation metrics and practical applications in customer segmentation. I gained insights into how clustering can reveal hidden patterns in unlabeled data, which I applied in my market basket analysis project."
+    content: "Studying this unit improved my understanding of how clustering algorithms, particularly k-means, are used to identify patterns within data, as illustrated by Harris (2021). Visualizing the clustering process helped clarify how data points are grouped based on similarity, making complex data more interpretable. I felt intrigued by the potential of these techniques in decision-making, especially in applications like customer segmentation or anomaly detection. However, I also recognized the importance of choosing the right number of clusters and preprocessing data correctly, as poor choices can lead to misleading results. This experience emphasized that visualization enhances understanding but must be combined with proper algorithm selection and validation to derive meaningful insights.
+References:
+Harris, N. (2021). Visualizing K-means clustering. Naftali Harris Blog. Available at: https://www.naftaliharris.com/blog/visualizing-k-means-clustering/ (Accessed: 1 June 2025)."
   },
   6: {
     title: "e-Portfolio 6: Neural Network Fundamentals",
