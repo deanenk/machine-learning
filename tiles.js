@@ -33,12 +33,7 @@ Harris, N. (2021). Visualizing K-means clustering. Naftali Harris Blog. Availabl
   },
   6: {
     title: "e-Portfolio 6: Neural Network Fundamentals",
-    content: `This unit highlighted the critical role of data visualisation in transforming raw data into actionable insights. 
-    I learned that effective visualisation techniques, like scatter plots and histograms, are essential for exploring data, identifying patterns, and communicating findings clearly (Kirk, 2012). 
-    I felt empowered by the ability to use tools like Micorosft's PowerBI to create insightful dashboards, enabling better-informed decision-making. 
-    However, I realised the ethical implications of data presentation and the importance of avoiding misleading or biased visualisations (Cairo, 2016). 
-    This emphasised the need for a rigorous and responsible approach to data storytelling. Moving forward, I aim to refine my data visualisation skills, 
-    focusing on creating ethical and impactful visualisations for effective communication.
+    content: `This unit highlighted the critical role of data visualisation in transforming raw data into actionable insights.I learned that effective visualisation techniques, like scatter plots and histograms, are essential for exploring data, identifying patterns, and communicating findings clearly (Kirk, 2012).I felt empowered by the ability to use tools like Micorosft's PowerBI to create insightful dashboards, enabling better-informed decision-making.However, I realised the ethical implications of data presentation and the importance of avoiding misleading or biased visualisations (Cairo, 2016).This emphasised the need for a rigorous and responsible approach to data storytelling. Moving forward, I aim to refine my data visualisation skills,focusing on creating ethical and impactful visualisations for effective communication.
 
 References:
 Cairo, A. (2016). The truthful art: Data, charts, and maps for communication. New Riders.
@@ -46,11 +41,7 @@ Kirk, A. (2012). Data visualization: a successful design process. Packt Publishi
   },
   7: {
     title: "e-Portfolio 7: Convolutional Neural Networks",
-    content: `In this unit, I explored the fundamentals of neural networks, including their structure, activation functions, and learning processes. 
-    Understanding how neurons connect and adjust weights to learn patterns was insightful (Goodfellow et al., 2016). I felt challenged by the complexity of backpropagation but also intrigued by the potential 
-    for neural networks to solve complex problems like image recognition and natural language processing. Learning about overfitting and regularization emphasized the importance of careful model training and 
-    validation (Srivastava et al., 2014). This unit highlighted the power of neural networks but also the need for rigorous design and evaluation. 
-    I plan to delve deeper into specific neural network architectures and applications to strengthen my understanding.
+    content: `In this unit, I explored the fundamentals of neural networks, including their structure, activation functions, and learning processes.Understanding how neurons connect and adjust weights to learn patterns was insightful (Goodfellow et al., 2016). I felt challenged by the complexity of backpropagation but also intrigued by the potential for neural networks to solve complex problems like image recognition and natural language processing. Learning about overfitting and regularization emphasized the importance of careful model training and validation (Srivastava et al., 2014). This unit highlighted the power of neural networks but also the need for rigorous design and evaluation.I plan to delve deeper into specific neural network architectures and applications to strengthen my understanding.
 
 References:
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press.
@@ -58,11 +49,7 @@ Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (
   },
   8: {
     title: "e-Portfolio 8: Sequence Modeling",
-    content: `This unit explored the benefits and risks of AI writing tools, including efficiency gains in administrative tasks but potential deskilling and bias introduction 
-    (Dellermann et al., 2019; Ferrara, 2023). I felt cautious about the loss of authenticity reported by authors using AI assistance (Epstein et al., 2023) and 
-    recognized the importance of addressing issues like factual inaccuracies and copyright violations (Ji et al., 2023; Sarikaya, 2022). Emphasizing application-specific safeguards and 
-    human-AI feedback loops is crucial to balancing productivity with ethical integrity and preserving human agency (Weidinger et al., 2022; Dumbuya, 2025). Moving forward, 
-    I aim to advocate for AI governance frameworks that prioritize fairness, transparency, and accountability in AI applications.
+    content: `This unit explored the benefits and risks of AI writing tools, including efficiency gains in administrative tasks but potential deskilling and bias introduction (Dellermann et al., 2019; Ferrara, 2023). I felt cautious about the loss of authenticity reported by authors using AI assistance (Epstein et al., 2023) and recognized the importance of addressing issues like factual inaccuracies and copyright violations (Ji et al., 2023; Sarikaya, 2022). Emphasizing application-specific safeguards and human-AI feedback loops is crucial to balancing productivity with ethical integrity and preserving human agency (Weidinger et al., 2022; Dumbuya, 2025). Moving forward,I aim to advocate for AI governance frameworks that prioritize fairness, transparency, and accountability in AI applications.
 
 References:
 
