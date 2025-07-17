@@ -33,11 +33,28 @@ Harris, N. (2021). Visualizing K-means clustering. Naftali Harris Blog. Availabl
   },
   6: {
     title: "e-Portfolio 6: Neural Network Fundamentals",
-    content: "This unit introduced neural networks from first principles. We built perceptrons from scratch, then progressed to multi-layer networks and backpropagation. Activation functions, loss functions, and optimization algorithms were covered in detail. Implementing a neural network without frameworks gave me a deeper understanding of how they work internally, which will be invaluable for debugging complex models."
+    content: `This unit highlighted the critical role of data visualisation in transforming raw data into actionable insights. 
+    I learned that effective visualisation techniques, like scatter plots and histograms, are essential for exploring data, identifying patterns, and communicating findings clearly (Kirk, 2012). 
+    I felt empowered by the ability to use tools like Micorosft's PowerBI to create insightful dashboards, enabling better-informed decision-making. 
+    However, I realised the ethical implications of data presentation and the importance of avoiding misleading or biased visualisations (Cairo, 2016). 
+    This emphasised the need for a rigorous and responsible approach to data storytelling. Moving forward, I aim to refine my data visualisation skills, 
+    focusing on creating ethical and impactful visualisations for effective communication.
+
+References:
+Cairo, A. (2016). The truthful art: Data, charts, and maps for communication. New Riders.
+Kirk, A. (2012). Data visualization: a successful design process. Packt Publishing Ltd.`
   },
   7: {
     title: "e-Portfolio 7: Convolutional Neural Networks",
-    content: "Focusing on computer vision, we studied CNNs and their components - convolutions, pooling, and fully connected layers. Architectures like LeNet, AlexNet, and ResNet were analyzed. Transfer learning and data augmentation techniques were particularly valuable. My final project involved building an image classifier that achieved 92% accuracy on CIFAR-10, demonstrating practical mastery of these concepts."
+    content: `In this unit, I explored the fundamentals of neural networks, including their structure, activation functions, and learning processes. 
+    Understanding how neurons connect and adjust weights to learn patterns was insightful (Goodfellow et al., 2016). I felt challenged by the complexity of backpropagation but also intrigued by the potential 
+    for neural networks to solve complex problems like image recognition and natural language processing. Learning about overfitting and regularization emphasized the importance of careful model training and 
+    validation (Srivastava et al., 2014). This unit highlighted the power of neural networks but also the need for rigorous design and evaluation. 
+    I plan to delve deeper into specific neural network architectures and applications to strengthen my understanding.
+
+References:
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press.
+Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). Dropout: A simple way to prevent neural networks from overfitting. Journal of Machine Learning Research, 15(56), 1929-1958.`
   },
   8: {
     title: "e-Portfolio 8: Sequence Modeling",
