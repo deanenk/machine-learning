@@ -58,7 +58,21 @@ Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (
   },
   8: {
     title: "e-Portfolio 8: Sequence Modeling",
-    content: "RNNs, LSTMs, and GRUs were covered for sequence data processing. We applied these to time series forecasting and text generation tasks. Attention mechanisms and their evolution into transformers were introduced. The unit culminated in a sentiment analysis project using IMDb reviews, where I learned to handle variable-length sequences and manage vanishing gradient problems."
+    content: `This unit explored the benefits and risks of AI writing tools, including efficiency gains in administrative tasks but potential deskilling and bias introduction 
+    (Dellermann et al., 2019; Ferrara, 2023). I felt cautious about the loss of authenticity reported by authors using AI assistance (Epstein et al., 2023) and 
+    recognized the importance of addressing issues like factual inaccuracies and copyright violations (Ji et al., 2023; Sarikaya, 2022). Emphasizing application-specific safeguards and 
+    human-AI feedback loops is crucial to balancing productivity with ethical integrity and preserving human agency (Weidinger et al., 2022; Dumbuya, 2025). Moving forward, 
+    I aim to advocate for AI governance frameworks that prioritize fairness, transparency, and accountability in AI applications.
+
+References:
+
+Dellermann, D. et al. (2019) ‘Hybrid intelligence', Business & Information Systems Engineering, 61(5), pp. 637-643.
+Dumbuya, E. (2025) Artificial Intelligence and Education: Preserving Human Agency in the World of Automation. [Online].
+Epstein, Z. et al. (2023) ‘Art and the science of generative Al’, Science, 379(6630), pp. 1110-1112.
+Ferrara, E. (2023) ‘Fairness and bias in artificial intelligence', Nature Reviews Materials, 6(1), pp. 1–14.
+Ji, Z. et al. (2023) ‘Survey of hallucination in natural language generation', ACM Computing Surveys, 55(12), pp. 1–38.
+Sarikaya, R. (2022) ‘The copyright implications of generative Al', Harvard Journal of Law & Technology, 36(1), pp. 217–245.
+Weidinger, L. et al. (2022) ‘Ethical and social risks of harm from language models', arXiv preprint, arXiv:2112.04359.`
   },
   9: {
     title: "e-Portfolio 9: Natural Language Processing",
