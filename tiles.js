@@ -1,7 +1,7 @@
 // Sample content for the portfolio activities
 const activities = {
   1: {
-    title: "e-Portfolio 1: Introduction to Machine Learning",
+    title: "unit 1: Introduction to Machine Learning",
     content: `I explored the transformative impact of Industry 4.0 and 5.0 on South Africa’s defence sector. Industry 4.0, characterized by technologies such as AI, IoT, and big data analytics, is revolutionizing defence logistics and manufacturing by enabling predictive maintenance and real-time decision-making (Metcalf, 2024). Industry 5.0 emphasizes human-machine collaboration, integrating robotics while maintaining critical human oversight, which raises important ethical considerations (Metcalf, 2024).The unit highlighted cybersecurity threats associated with these advancements, exemplified by the 2021 Transnet cyberattack, which disrupted port operations and underscored vulnerabilities in critical infrastructure (ISS Africa, 2021). Recognizing these risks emphasizes the need for robust cyber resilience strategies in defence, combining technological innovation with strong security measures, to support national security and economic stability.
      
       References
@@ -9,35 +9,35 @@ const activities = {
               Metcalf, J. (2024) ‘Industry 5.0 and the future of defence manufacturing’, Defence Technology Review, 12(3), pp. 45–60.`
  },
   2: {
-    title: "e-Portfolio 2: Data Preprocessing",
+    title: "unit 2: Data Preprocessing",
     content: `The unit focused on the foundational concepts of data science and machine learning (ML). The focus was on understanding the importance of data pre-processing, feature selection, and the difference between supervised and unsupervised learning. I learned that quality data and proper preprocessing are crucial for building effective ML models, which directly impacts their accuracy and reliability (Hastie, Tibshirani & Friedman, 2009). The distinction between classification, regression, clustering, and dimensionality reduction provided me with a clearer view of the versatile applications of ML in real-world scenarios, including healthcare and finance. This foundational knowledge is vital for progressing into more advanced ML topics and developing effective predictive models in my future studies and projects.
        
        References
              Hastie, T., Tibshirani, R., & Friedman, J. (2009) The Elements of Statistical Learning. Springer.`
   },
   3: {
-    title: "e-Portfolio 3: Regression Models",
+    title: "unit 3: Regression Models",
     content: `In this unit, I examined various machine learning algorithms, including decision trees, k-nearest neighbors (k-NN), and support vector machines (SVM). I learned that choosing the right algorithm depends on the specific problem, data type, and desired outcome. For example, decision trees provide interpretability, making them suitable for understanding feature importance, whereas SVMs excel with high-dimensional data and complex boundaries (Cortes & Vapnik, 1995). I also explored how these algorithms can be applied in real-world contexts like medical diagnosis, fraud detection, and customer segmentation. Understanding their strengths and limitations will assist me in selecting appropriate models for future projects. The practical insight gained emphasizes the importance of algorithm understanding in developing effective machine learning solutions.
      
       References
       Cortes, C., & Vapnik, V. (1995) ‘Support-Vector Networks’, Machine Learning, 20(3), pp. 273–297.`
   },
   4: {
-    title: "e-Portfolio 4: Classification Models",
+    title: "unit 4: Classification Models",
     content: `I explored methods to evaluate machine learning models to ensure their effectiveness. I learned that metrics such as accuracy, precision, recall, F1 score, and ROC-AUC are essential for assessing models, especially in classification tasks. I understood that choosing the appropriate metric depends on the problem context—for example, precision and recall are critical when false positives or negatives carry significant implications, such as in medical diagnosis. The concept of cross-validation was also emphasized, highlighting its role in preventing overfitting and providing a more reliable estimate of model performance (Hastie, Tibshirani & Friedman, 2009). Through practical exercises, I realized that model evaluation is a vital step before deploying any machine learning solution, as it directly influences the trustworthiness of predictions and subsequent decision-making.
      
      References
             Hastie, T., Tibshirani, R., & Friedman, J. (2009) The Elements of Statistical Learning. Springer.`
   },
   5: {
-    title: "e-Portfolio 5: Clustering Techniques",
+    title: "unit 5: Clustering Techniques",
     content: `Studying this unit improved my understanding of how clustering algorithms, particularly k-means, are used to identify patterns within data, as illustrated by Harris (2021). Visualizing the clustering process helped clarify how data points are grouped based on similarity, making complex data more interpretable. I felt intrigued by the potential of these techniques in decision-making, especially in applications like customer segmentation or anomaly detection. However, I also recognized the importance of choosing the right number of clusters and preprocessing data correctly, as poor choices can lead to misleading results. This experience emphasized that visualization enhances understanding but must be combined with proper algorithm selection and validation to derive meaningful insights.
 
 References:
 Harris, N. (2021). Visualizing K-means clustering. Naftali Harris Blog. Available at: https://www.naftaliharris.com/blog/visualizing-k-means-clustering/ (Accessed: 1 June 2025).`
   },
   6: {
-    title: "e-Portfolio 6: Neural Network Fundamentals",
+    title: "unit 6: Neural Network Fundamentals",
     content: `This unit highlighted the critical role of data visualisation in transforming raw data into actionable insights.I learned that effective visualisation techniques, like scatter plots and histograms, are essential for exploring data, identifying patterns, and communicating findings clearly (Kirk, 2012).I felt empowered by the ability to use tools like Micorosft's PowerBI to create insightful dashboards, enabling better-informed decision-making.However, I realised the ethical implications of data presentation and the importance of avoiding misleading or biased visualisations (Cairo, 2016).This emphasised the need for a rigorous and responsible approach to data storytelling. Moving forward, I aim to refine my data visualisation skills,focusing on creating ethical and impactful visualisations for effective communication.
 
 References:
@@ -45,7 +45,7 @@ Cairo, A. (2016). The truthful art: Data, charts, and maps for communication. Ne
 Kirk, A. (2012). Data visualization: a successful design process. Packt Publishing Ltd.`
   },
   7: {
-    title: "e-Portfolio 7: Convolutional Neural Networks",
+    title: "unit 7: Convolutional Neural Networks",
     content: `In this unit, I explored the fundamentals of neural networks, including their structure, activation functions, and learning processes.Understanding how neurons connect and adjust weights to learn patterns was insightful (Goodfellow et al., 2016). I felt challenged by the complexity of backpropagation but also intrigued by the potential for neural networks to solve complex problems like image recognition and natural language processing. Learning about overfitting and regularization emphasized the importance of careful model training and validation (Srivastava et al., 2014). This unit highlighted the power of neural networks but also the need for rigorous design and evaluation.I plan to delve deeper into specific neural network architectures and applications to strengthen my understanding.
 
 References:
@@ -53,7 +53,7 @@ Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press.
 Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). Dropout: A simple way to prevent neural networks from overfitting. Journal of Machine Learning Research, 15(56), 1929-1958.`
   },
   8: {
-    title: "e-Portfolio 8: Sequence Modeling",
+    title: "unit 8: Sequence Modeling",
     content: `This unit explored the benefits and risks of AI writing tools, including efficiency gains in administrative tasks but potential deskilling and bias introduction (Dellermann et al., 2019; Ferrara, 2023). I felt cautious about the loss of authenticity reported by authors using AI assistance (Epstein et al., 2023) and recognized the importance of addressing issues like factual inaccuracies and copyright violations (Ji et al., 2023; Sarikaya, 2022). Emphasizing application-specific safeguards and human-AI feedback loops is crucial to balancing productivity with ethical integrity and preserving human agency (Weidinger et al., 2022; Dumbuya, 2025). Moving forward,I aim to advocate for AI governance frameworks that prioritize fairness, transparency, and accountability in AI applications.
 
 References:
@@ -66,14 +66,14 @@ Sarikaya, R. (2022) ‘The copyright implications of generative Al', Harvard Jou
 Weidinger, L. et al. (2022) ‘Ethical and social risks of harm from language models', arXiv preprint, arXiv:2112.04359.`
   },
   9: {
-    title: "e-Portfolio 9: Natural Language Processing",
+    title: "unit 9: Natural Language Processing",
     content: `This unit involved analyzing the ethical implications of CNN-based facial recognition technology, as highlighted in the BBC report (Wall, 2019). Experimenting with the object recognition model revealed potential biases based on image variations. I felt uneasy about the potential for unlawful use by police forces, as the technology’s accuracy and transparency remain questionable. This experience raised concerns about privacy, surveillance, and potential discrimination. Understanding these ethical and legal dimensions underscores the need for robust regulatory frameworks and stringent oversight. Moving forward, I aim to advocate for transparent and accountable use of AI in law enforcement to safeguard individual rights.
 
 Reference:
 Wall, M. (2019). Facial recognition: Are police forces using it unlawfully? BBC News. Retrieved from https://www.bbc.com/news/business-48842750`
   },
   10: {
-    title: "e-Portfolio 10: Reinforcement Learning",
+    title: "unit 10: Reinforcement Learning",
     content: `Exploring deep learning (Bishop & Bishop, 2024) alongside the ethical concerns raised in the BBC's report on facial recognition (Wall, 2019) was insightful. While deep learning provides powerful tools for pattern recognition, the potential for misuse, bias, and lack of transparency in facial recognition systems raises serious concerns. I felt challenged to reconcile the benefits of advanced technology with the need to protect individual rights and privacy. This emphasized the importance of understanding both the technical foundations and the ethical implications. Moving forward, I plan to advocate for responsible AI development, emphasising transparency, accountability, and fairness in deep learning applications.
 
 References:
@@ -81,7 +81,7 @@ Bishop, C., & Bishop, H. (2024). Deep Learning: Foundations and Concepts (Chapte
 Wall, M. (2019). Facial recognition: Are police forces using it unlawfully? BBC News. Retrieved from https://www.bbc.com/news/business-48842750`
   },
   11: {
-    title: "e-Portfolio 11: Model Evaluation & Validation",
+    title: "unit 11: Model Evaluation & Validation",
     content: `This unit delved into evaluating machine learning models, combining insights from Jordan's article (n.d.) with deep learning concepts from Bishop & Bishop (2024). I learned that robust evaluation goes beyond simple accuracy, necessitating a comprehensive understanding of metrics like precision, recall, and F1-score to avoid biased interpretations. I felt challenged to consider the trade-offs between different evaluation metrics in specific contexts and the limitations of current evaluation techniques. This unit emphasised that model evaluation is crucial for deploying reliable and trustworthy systems, requiring careful selection of metrics and validation strategies. Moving forward, I aim to refine my evaluation skills and advocate for rigorous testing in machine learning deployments.
 
 References:
@@ -89,7 +89,7 @@ Bishop, C., & Bishop, H. (2024). Deep Learning: Foundations and Concepts (Chapte
 Jordan, J. (n.d.). Evaluating a machine learning model. Retrieved from https://www.jeremyjordan.me/evaluating-a-machine-learning-model/`
   },
   12: {
-    title: "e-Portfolio 12: AI Ethics & Future Directions",
+    title: "unit 12: AI Ethics & Future Directions",
     content: `This unit explored the dual-edged nature of deep learning through deepfakes (Vincent, 2018), synthetic faces (ThisPersonDoesNotExist.com), and image generation (DALL-E), highlighting their potential for both creativity and harm (Bishop & Bishop, 2024). I felt uneasy recognising their capacity for disinformation (CDEI, 2024) and manipulation, as well as AI's role in generating new media (Jaiswal et al., 2024). This underscored the need for ethical frameworks. It's essential to balance innovation with responsible safeguards. Moving forward, I aim to develop AI literacy, advocate for ethical guidelines, and promote critical consumption of digital media.
 
 References:
