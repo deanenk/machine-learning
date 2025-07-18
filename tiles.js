@@ -10,24 +10,28 @@ const activities = {
   2: {
     title: "e-Portfolio 2: Data Preprocessing",
     content: `The unit focused on the foundational concepts of data science and machine learning (ML). The focus was on understanding the importance of data pre-processing, feature selection, and the difference between supervised and unsupervised learning. I learned that quality data and proper preprocessing are crucial for building effective ML models, which directly impacts their accuracy and reliability (Hastie, Tibshirani & Friedman, 2009). The distinction between classification, regression, clustering, and dimensionality reduction provided me with a clearer view of the versatile applications of ML in real-world scenarios, including healthcare and finance. This foundational knowledge is vital for progressing into more advanced ML topics and developing effective predictive models in my future studies and projects.
-      References
+       
+       References
              Hastie, T., Tibshirani, R., & Friedman, J. (2009) The Elements of Statistical Learning. Springer.`
   },
   3: {
     title: "e-Portfolio 3: Regression Models",
     content: `In this unit, I examined various machine learning algorithms, including decision trees, k-nearest neighbors (k-NN), and support vector machines (SVM). I learned that choosing the right algorithm depends on the specific problem, data type, and desired outcome. For example, decision trees provide interpretability, making them suitable for understanding feature importance, whereas SVMs excel with high-dimensional data and complex boundaries (Cortes & Vapnik, 1995). I also explored how these algorithms can be applied in real-world contexts like medical diagnosis, fraud detection, and customer segmentation. Understanding their strengths and limitations will assist me in selecting appropriate models for future projects. The practical insight gained emphasizes the importance of algorithm understanding in developing effective machine learning solutions.
+     
       References
       Cortes, C., & Vapnik, V. (1995) ‘Support-Vector Networks’, Machine Learning, 20(3), pp. 273–297.`
   },
   4: {
     title: "e-Portfolio 4: Classification Models",
     content: `I explored methods to evaluate machine learning models to ensure their effectiveness. I learned that metrics such as accuracy, precision, recall, F1 score, and ROC-AUC are essential for assessing models, especially in classification tasks. I understood that choosing the appropriate metric depends on the problem context—for example, precision and recall are critical when false positives or negatives carry significant implications, such as in medical diagnosis. The concept of cross-validation was also emphasized, highlighting its role in preventing overfitting and providing a more reliable estimate of model performance (Hastie, Tibshirani & Friedman, 2009). Through practical exercises, I realized that model evaluation is a vital step before deploying any machine learning solution, as it directly influences the trustworthiness of predictions and subsequent decision-making.
+     
      References
             Hastie, T., Tibshirani, R., & Friedman, J. (2009) The Elements of Statistical Learning. Springer.`
   },
   5: {
     title: "e-Portfolio 5: Clustering Techniques",
     content: `Studying this unit improved my understanding of how clustering algorithms, particularly k-means, are used to identify patterns within data, as illustrated by Harris (2021). Visualizing the clustering process helped clarify how data points are grouped based on similarity, making complex data more interpretable. I felt intrigued by the potential of these techniques in decision-making, especially in applications like customer segmentation or anomaly detection. However, I also recognized the importance of choosing the right number of clusters and preprocessing data correctly, as poor choices can lead to misleading results. This experience emphasized that visualization enhances understanding but must be combined with proper algorithm selection and validation to derive meaningful insights.
+
 References:
 Harris, N. (2021). Visualizing K-means clustering. Naftali Harris Blog. Available at: https://www.naftaliharris.com/blog/visualizing-k-means-clustering/ (Accessed: 1 June 2025).`
   },
@@ -52,7 +56,6 @@ Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (
     content: `This unit explored the benefits and risks of AI writing tools, including efficiency gains in administrative tasks but potential deskilling and bias introduction (Dellermann et al., 2019; Ferrara, 2023). I felt cautious about the loss of authenticity reported by authors using AI assistance (Epstein et al., 2023) and recognized the importance of addressing issues like factual inaccuracies and copyright violations (Ji et al., 2023; Sarikaya, 2022). Emphasizing application-specific safeguards and human-AI feedback loops is crucial to balancing productivity with ethical integrity and preserving human agency (Weidinger et al., 2022; Dumbuya, 2025). Moving forward,I aim to advocate for AI governance frameworks that prioritize fairness, transparency, and accountability in AI applications.
 
 References:
-
 Dellermann, D. et al. (2019) ‘Hybrid intelligence', Business & Information Systems Engineering, 61(5), pp. 637-643.
 Dumbuya, E. (2025) Artificial Intelligence and Education: Preserving Human Agency in the World of Automation. [Online].
 Epstein, Z. et al. (2023) ‘Art and the science of generative Al’, Science, 379(6630), pp. 1110-1112.
@@ -66,7 +69,6 @@ Weidinger, L. et al. (2022) ‘Ethical and social risks of harm from language mo
     content: `This unit involved analyzing the ethical implications of CNN-based facial recognition technology, as highlighted in the BBC report (Wall, 2019). Experimenting with the object recognition model revealed potential biases based on image variations. I felt uneasy about the potential for unlawful use by police forces, as the technology’s accuracy and transparency remain questionable. This experience raised concerns about privacy, surveillance, and potential discrimination. Understanding these ethical and legal dimensions underscores the need for robust regulatory frameworks and stringent oversight. Moving forward, I aim to advocate for transparent and accountable use of AI in law enforcement to safeguard individual rights.
 
 Reference:
-
 Wall, M. (2019). Facial recognition: Are police forces using it unlawfully? BBC News. Retrieved from https://www.bbc.com/news/business-48842750`
   },
   10: {
@@ -74,7 +76,6 @@ Wall, M. (2019). Facial recognition: Are police forces using it unlawfully? BBC 
     content: `Exploring deep learning (Bishop & Bishop, 2024) alongside the ethical concerns raised in the BBC's report on facial recognition (Wall, 2019) was insightful. While deep learning provides powerful tools for pattern recognition, the potential for misuse, bias, and lack of transparency in facial recognition systems raises serious concerns. I felt challenged to reconcile the benefits of advanced technology with the need to protect individual rights and privacy. This emphasized the importance of understanding both the technical foundations and the ethical implications. Moving forward, I plan to advocate for responsible AI development, emphasising transparency, accountability, and fairness in deep learning applications.
 
 References:
-
 Bishop, C., & Bishop, H. (2024). Deep Learning: Foundations and Concepts (Chapters 5 & 10). Cambridge University Press, Cambridge.
 Wall, M. (2019). Facial recognition: Are police forces using it unlawfully? BBC News. Retrieved from https://www.bbc.com/news/business-48842750`
   },
@@ -83,7 +84,6 @@ Wall, M. (2019). Facial recognition: Are police forces using it unlawfully? BBC 
     content: `This unit delved into evaluating machine learning models, combining insights from Jordan's article (n.d.) with deep learning concepts from Bishop & Bishop (2024). I learned that robust evaluation goes beyond simple accuracy, necessitating a comprehensive understanding of metrics like precision, recall, and F1-score to avoid biased interpretations. I felt challenged to consider the trade-offs between different evaluation metrics in specific contexts and the limitations of current evaluation techniques. This unit emphasised that model evaluation is crucial for deploying reliable and trustworthy systems, requiring careful selection of metrics and validation strategies. Moving forward, I aim to refine my evaluation skills and advocate for rigorous testing in machine learning deployments.
 
 References:
-
 Bishop, C., & Bishop, H. (2024). Deep Learning: Foundations and Concepts (Chapter 18). Cambridge University Press, Cambridge.
 Jordan, J. (n.d.). Evaluating a machine learning model. Retrieved from https://www.jeremyjordan.me/evaluating-a-machine-learning-model/`
   },
