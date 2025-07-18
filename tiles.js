@@ -71,7 +71,12 @@ Wall, M. (2019). Facial recognition: Are police forces using it unlawfully? BBC 
   },
   10: {
     title: "e-Portfolio 10: Reinforcement Learning",
-    content: "This unit explored Markov decision processes, Q-learning, policy gradients, and deep Q-networks. We implemented agents for environments like CartPole and MountainCar. The tradeoffs between exploration and exploitation were examined through multi-armed bandit problems. The final project involved training an agent to play a simplified version of Atari's Pong, demonstrating practical RL implementation."
+    content: `Exploring deep learning (Bishop & Bishop, 2024) alongside the ethical concerns raised in the BBC's report on facial recognition (Wall, 2019) was insightful. While deep learning provides powerful tools for pattern recognition, the potential for misuse, bias, and lack of transparency in facial recognition systems raises serious concerns. I felt challenged to reconcile the benefits of advanced technology with the need to protect individual rights and privacy. This emphasized the importance of understanding both the technical foundations and the ethical implications. Moving forward, I plan to advocate for responsible AI development, emphasizing transparency, accountability, and fairness in deep learning applications.
+
+References:
+
+Bishop, C., & Bishop, H. (2024). Deep Learning: Foundations and Concepts (Chapters 5 & 10). Cambridge University Press, Cambridge.
+Wall, M. (2019). Facial recognition: Are police forces using it unlawfully? BBC News. Retrieved from https://www.bbc.com/news/business-48842750`
   },
   11: {
     title: "e-Portfolio 11: Model Evaluation & Validation",
