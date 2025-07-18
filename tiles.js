@@ -89,7 +89,15 @@ Jordan, J. (n.d.). Evaluating a machine learning model. Retrieved from https://w
   },
   12: {
     title: "e-Portfolio 12: AI Ethics & Future Directions",
-    content: "This capstone unit examined ethical considerations in AI deployment, including bias mitigation, fairness metrics, and explainability techniques. We discussed societal impacts and regulatory frameworks. The final project involved auditing an ML model for fairness across demographic groups. Looking forward, we explored emerging areas like federated learning, AI safety, and the future of human-AI collaboration."
+    content: `This unit explored the dual-edged nature of deep learning through deepfakes (Vincent, 2018), synthetic faces (ThisPersonDoesNotExist.com), and image generation (DALL-E), highlighting their potential for both creativity and harm (Bishop & Bishop, 2024). I felt uneasy recognizing their capacity for disinformation (CDEI, 2024) and manipulation, as well as AI's role in generating new media (Jaiswal et al., 2024). This underscored the need for ethical frameworks. It's essential to balance innovation with responsible safeguards. Moving forward, I aim to develop AI literacy, advocate for ethical guidelines, and promote critical consumption of digital media.
+
+References:
+Bishop, C., & Bishop, H. (2024). Deep Learning: Foundations and Concepts (Chapter 20). Cambridge University Press, Cambridge.
+CDEI. (2024). Snapshot paper: Deepfakes and audiovisual disinformation. Gov.uk. Retrieved from https://www.gov.uk/government/publications/cdei-publishes-its-first-series-of-three-snapshot-papers-ethical-issues-in-ai/snapshot-paper-deepfakes-and-audiovisual-disinformation
+Jaiswal, K., Gupta, P., Jain, V., & Kumar, A. (2024). Deepfake detection methods: A comprehensive review. In Advances in Smart Systems and Computing. Springer, Singapore.
+OpenAI. (n.d.). DALL-E. Retrieved from https://openai.com/index/dall-e/
+This Person Does Not Exist. (n.d.). Retrieved from https://this-person-does-not-exist.com/en
+Vincent, J. (2018). Deepfakes: The dark origins of fake videos and their potential to wreak havoc. Discover Magazine. Retrieved from https://www.discovermagazine.com/technology/deepfakes-the-dark-origins-of-fake-videos-and-their-potential-to-wreak-havoc`
   }
 };
 
