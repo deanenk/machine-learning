@@ -63,7 +63,11 @@ Weidinger, L. et al. (2022) ‘Ethical and social risks of harm from language mo
   },
   9: {
     title: "e-Portfolio 9: Natural Language Processing",
-    content: "NLP techniques from tokenization to transformer models were covered. We implemented word embeddings (Word2Vec, GloVe), then progressed to state-of-the-art models like BERT. Named entity recognition, sentiment analysis, and text summarization projects provided hands-on experience. I gained appreciation for the challenges in language understanding and the power of transfer learning in NLP."
+    content: `This unit involved analyzing the ethical implications of CNN-based facial recognition technology, as highlighted in the BBC report (Wall, 2019). Experimenting with the object recognition model revealed potential biases based on image variations. I felt uneasy about the potential for unlawful use by police forces, as the technology’s accuracy and transparency remain questionable. This experience raised concerns about privacy, surveillance, and potential discrimination. Understanding these ethical and legal dimensions underscores the need for robust regulatory frameworks and stringent oversight. Moving forward, I aim to advocate for transparent and accountable use of AI in law enforcement to safeguard individual rights.
+
+Reference:
+
+Wall, M. (2019). Facial recognition: Are police forces using it unlawfully? BBC News. Retrieved from https://www.bbc.com/news/business-48842750`
   },
   10: {
     title: "e-Portfolio 10: Reinforcement Learning",
