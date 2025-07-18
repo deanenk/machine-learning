@@ -80,7 +80,12 @@ Wall, M. (2019). Facial recognition: Are police forces using it unlawfully? BBC 
   },
   11: {
     title: "e-Portfolio 11: Model Evaluation & Validation",
-    content: "Comprehensive coverage of evaluation methodologies included cross-validation strategies, hyperparameter tuning, and statistical tests for model comparison. We learned to diagnose underfitting/overfitting and address them through regularization and ensemble methods. The importance of considering business metrics alongside statistical metrics was emphasized through case studies."
+    content: `This unit delved into evaluating machine learning models, combining insights from Jordan's article (n.d.) with deep learning concepts from Bishop & Bishop (2024). I learned that robust evaluation goes beyond simple accuracy, necessitating a comprehensive understanding of metrics like precision, recall, and F1-score to avoid biased interpretations. I felt challenged to consider the trade-offs between different evaluation metrics in specific contexts and the limitations of current evaluation techniques. This unit emphasized that model evaluation is crucial for deploying reliable and trustworthy systems, requiring careful selection of metrics and validation strategies. Moving forward, I aim to refine my evaluation skills and advocate for rigorous testing in machine learning deployments.
+
+References:
+
+Bishop, C., & Bishop, H. (2024). Deep Learning: Foundations and Concepts (Chapter 18). Cambridge University Press, Cambridge.
+Jordan, J. (n.d.). Evaluating a machine learning model. Retrieved from https://www.jeremyjordan.me/evaluating-a-machine-learning-model/`
   },
   12: {
     title: "e-Portfolio 12: AI Ethics & Future Directions",
