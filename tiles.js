@@ -71,7 +71,7 @@ Wall, M. (2019). Facial recognition: Are police forces using it unlawfully? BBC 
   },
   10: {
     title: "e-Portfolio 10: Reinforcement Learning",
-    content: `Exploring deep learning (Bishop & Bishop, 2024) alongside the ethical concerns raised in the BBC's report on facial recognition (Wall, 2019) was insightful. While deep learning provides powerful tools for pattern recognition, the potential for misuse, bias, and lack of transparency in facial recognition systems raises serious concerns. I felt challenged to reconcile the benefits of advanced technology with the need to protect individual rights and privacy. This emphasized the importance of understanding both the technical foundations and the ethical implications. Moving forward, I plan to advocate for responsible AI development, emphasizing transparency, accountability, and fairness in deep learning applications.
+    content: `Exploring deep learning (Bishop & Bishop, 2024) alongside the ethical concerns raised in the BBC's report on facial recognition (Wall, 2019) was insightful. While deep learning provides powerful tools for pattern recognition, the potential for misuse, bias, and lack of transparency in facial recognition systems raises serious concerns. I felt challenged to reconcile the benefits of advanced technology with the need to protect individual rights and privacy. This emphasized the importance of understanding both the technical foundations and the ethical implications. Moving forward, I plan to advocate for responsible AI development, emphasising transparency, accountability, and fairness in deep learning applications.
 
 References:
 
@@ -80,7 +80,7 @@ Wall, M. (2019). Facial recognition: Are police forces using it unlawfully? BBC 
   },
   11: {
     title: "e-Portfolio 11: Model Evaluation & Validation",
-    content: `This unit delved into evaluating machine learning models, combining insights from Jordan's article (n.d.) with deep learning concepts from Bishop & Bishop (2024). I learned that robust evaluation goes beyond simple accuracy, necessitating a comprehensive understanding of metrics like precision, recall, and F1-score to avoid biased interpretations. I felt challenged to consider the trade-offs between different evaluation metrics in specific contexts and the limitations of current evaluation techniques. This unit emphasized that model evaluation is crucial for deploying reliable and trustworthy systems, requiring careful selection of metrics and validation strategies. Moving forward, I aim to refine my evaluation skills and advocate for rigorous testing in machine learning deployments.
+    content: `This unit delved into evaluating machine learning models, combining insights from Jordan's article (n.d.) with deep learning concepts from Bishop & Bishop (2024). I learned that robust evaluation goes beyond simple accuracy, necessitating a comprehensive understanding of metrics like precision, recall, and F1-score to avoid biased interpretations. I felt challenged to consider the trade-offs between different evaluation metrics in specific contexts and the limitations of current evaluation techniques. This unit emphasised that model evaluation is crucial for deploying reliable and trustworthy systems, requiring careful selection of metrics and validation strategies. Moving forward, I aim to refine my evaluation skills and advocate for rigorous testing in machine learning deployments.
 
 References:
 
@@ -89,7 +89,7 @@ Jordan, J. (n.d.). Evaluating a machine learning model. Retrieved from https://w
   },
   12: {
     title: "e-Portfolio 12: AI Ethics & Future Directions",
-    content: `This unit explored the dual-edged nature of deep learning through deepfakes (Vincent, 2018), synthetic faces (ThisPersonDoesNotExist.com), and image generation (DALL-E), highlighting their potential for both creativity and harm (Bishop & Bishop, 2024). I felt uneasy recognizing their capacity for disinformation (CDEI, 2024) and manipulation, as well as AI's role in generating new media (Jaiswal et al., 2024). This underscored the need for ethical frameworks. It's essential to balance innovation with responsible safeguards. Moving forward, I aim to develop AI literacy, advocate for ethical guidelines, and promote critical consumption of digital media.
+    content: `This unit explored the dual-edged nature of deep learning through deepfakes (Vincent, 2018), synthetic faces (ThisPersonDoesNotExist.com), and image generation (DALL-E), highlighting their potential for both creativity and harm (Bishop & Bishop, 2024). I felt uneasy recognising their capacity for disinformation (CDEI, 2024) and manipulation, as well as AI's role in generating new media (Jaiswal et al., 2024). This underscored the need for ethical frameworks. It's essential to balance innovation with responsible safeguards. Moving forward, I aim to develop AI literacy, advocate for ethical guidelines, and promote critical consumption of digital media.
 
 References:
 Bishop, C., & Bishop, H. (2024). Deep Learning: Foundations and Concepts (Chapter 20). Cambridge University Press, Cambridge.
