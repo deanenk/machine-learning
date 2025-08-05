@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Intelligent Agents | DN's ePortfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>DN's ePortfolio</h1>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="machine-learning.html">Machine Learning</a>
+        <a href="intelligent-agents.html" style="color:#ff8800;">Intelligent Agents</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+  
+  <section id="tiles">
+    <div class="container">
+      <h2 class="section-title">Intelligent Agents Portfolio</h2>
+      <p class="section-subtitle">
+        This portfolio showcases my exploration of intelligent agents - autonomous entities that 
+        perceive their environment and take actions to achieve goals. Each entry represents a key 
+        concept in agent design and implementation.
+      </p>
+      
+      <div class="tile-grid">
+        <div class="tile">
+          <h3>e-Portfolio 1</h3>
+          <p class="desc">
+            <span id="short1"></span>
+            <a href="#" onclick="showActivity(1)">View</a>
+          </p>
+        </div>
+        
+        <!-- Repeat for 2-12 -->
+        <div class="tile">
+          <h3>e-Portfolio 2</h3>
+          <p class="desc">
+            <span id="short2"></span>
+            <a href="#" onclick="showActivity(2)">View</a>
+          </p>
+        </div>
+        
+        <!-- Add tiles 3-12 following the same pattern -->
+      </div>
+    </div>
+  </section>
+  
+  <!-- Modal for viewing activity content -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal()">&times;</span>
+      <h3 id="modalTitle"></h3>
+      <div id="modalDesc"></div>
+      <div id="editControls">
+        <textarea id="modalDescEdit" maxlength="1800" placeholder="Enter activity description (max 300 words)..." rows="8"></textarea>
+        <button onclick="saveDesc()">Save</button>
+      </div>
+    </div>
+  </div>
+  
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 DN's ePortfolio. All rights reserved.</p>
+    </div>
+  </footer>
+  
+  <script src="ia-activities.js"></script>
+</body>
+</html>
