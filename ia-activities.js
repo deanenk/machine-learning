@@ -1,9 +1,32 @@
 // ia-activities.js - Intelligent Agents Activities
 const activities = {
   1: {
-    title: "e-Portfolio 1: Agent Fundamentals",
-    content: `This portfolio introduces the fundamental concepts of intelligent agents...`
-    // Add your IA content here
+    title: "Critical Engagement with Agent-Based Systems",
+    content: `Description
+This task involved critically analysing agent-based systems (ABS) by synthesising academic literature and peer discussions. The focus was on differentiating architectures, evaluating applications in uncertain environments, and considering implementation issues within a virtual team.
+
+Feelings
+Initially, I was confident about ABS's theoretical capacity to model emergent phenomena (Bonabeau, 2009). However, encountering literature on computational limitations and validation challenges (Davis et al., 2007; Heath, Hill and Ciarallo, 2009) introduced necessary complexity. Virtual collaboration provoked both anxiety and excitement about achieving consensus through diverse perspectives.
+
+Evaluation
+The experience enabled effective differentiation between pure ABS and hybrid architectures that address scalability (Davis et al., 2007). Applying these concepts to real-world problems like supply chain resilience highlighted how architectural choices manage technical risk. The difficulty of agent calibration revealed the gap between theoretical models and reliable implementation (Heath, Hill and Ciarallo, 2009).
+
+Analysis
+I gained crucial insights into how decentralised architectures enhance—but don't guarantee—resilience, due to persistent networked risks (Davis et al., 2007). Evaluating tools required considering legal and ethical issues alongside functionality. Team collaboration in a virtual environment developed professional skills, mirroring real-world development practices and reinforcing the need for methodological rigour.
+
+Conclusion
+I learned that critical ABS understanding requires confronting implementation challenges, where architectural choice and validation are pivotal. Effective development is socio-technical, demanding teamwork and ethical consideration.
+
+Action Plan
+I will: 1) Use NetLogo to build a model, focusing on calibration; 2) Research hybrid modelling case studies; 3) Develop an ethical checklist for ABS projects; 4) Seek further virtual team opportunities to develop leadership skills.
+References
+
+Bonabeau, E. (2009) 'Decisions 2.0: The Power of Collective Intelligence', MIT Sloan Management Review, 50(2), pp. 45-52.
+
+Davis, P.K., et al. (2007) 'Equilibration of agent-based models: Pitfalls and solutions', Operations Research, 55(5), pp. 849-865. DOI: 10.1287/opre.1070.0438.
+
+Heath, B., Hill, R. and Ciarallo, F. (2009) 'A survey of agent-based modeling practices', Journal of Systems Science, 40(10), pp. 983-998. DOI: 10.1080/00207720903353653.`
+   
   },
   2: {
     title: "e-Portfolio 2: Agent Architectures",
