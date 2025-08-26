@@ -2,7 +2,8 @@
 const activities = {
   1: {
     title: "Critical Engagement with Agent-Based Systems",
-    content: `Description
+    content: `
+Description
 This task involved critically analysing agent-based systems (ABS) by synthesising academic literature and peer discussions. The focus was on differentiating architectures, evaluating applications in uncertain environments, and considering implementation issues within a virtual team.
 
 Feelings
@@ -19,12 +20,10 @@ I learned that critical ABS understanding requires confronting implementation ch
 
 Action Plan
 I will: 1) Use NetLogo to build a model, focusing on calibration; 2) Research hybrid modelling case studies; 3) Develop an ethical checklist for ABS projects; 4) Seek further virtual team opportunities to develop leadership skills.
+
 References
-
 Bonabeau, E. (2009) 'Decisions 2.0: The Power of Collective Intelligence', MIT Sloan Management Review, 50(2), pp. 45-52.
-
 Davis, P.K., et al. (2007) 'Equilibration of agent-based models: Pitfalls and solutions', Operations Research, 55(5), pp. 849-865. DOI: 10.1287/opre.1070.0438.
-
 Heath, B., Hill, R. and Ciarallo, F. (2009) 'A survey of agent-based modeling practices', Journal of Systems Science, 40(10), pp. 983-998. DOI: 10.1080/00207720903353653.`
    
   },
