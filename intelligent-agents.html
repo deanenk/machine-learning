@@ -5,6 +5,11 @@
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <title>Intelligent Agents | DN's ePortfolio</title>
   <link rel="stylesheet" href="styles.css">
+   <script>
+    // Check if author mode is enabled via URL parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    const isAuthor = urlParams.has('edit') && urlParams.get('edit') === 'EssexML2025';
+  </script>
 </head>
 <body>
   <header>
