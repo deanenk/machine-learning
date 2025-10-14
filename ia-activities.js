@@ -32,7 +32,7 @@ Heath, B., Hill, R. and Ciarallo, F. (2009) 'A survey of agent-based modeling pr
     content: `
 Description
 Our team (Group G) designed the architecture for an academic paper scraper using a multi-agent system. This design phase applied agent communication principles (Unit 5) and coordination frameworks (Unit 6), while parallel studies covered AI ethics and NLP (Unit 7).
-<img src="images/agentsDesign" alt="Agent Communication Flow">
+<img src="images/agentsDesign.png" alt="Agent Communication Flow">
 
 Feelings
 I was confident when designing the agent architecture, however, during this planning stage, I became concerned about the ethical implications of such systems, particularly on how agent coordination could be repurposed for harmful activities.
